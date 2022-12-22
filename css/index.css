@@ -89,3 +89,19 @@ header {
 .header-menu-button__subscribe button:hover {
     background: #3d3dc7;
 }
+
+.main-card-section {
+    margin-top: 128px;
+}
+
+.main-card {
+    width: 75%;
+}
+
+.main-card-group__text {
+    width: 50%;
+}
+
+.main-card-group__image {
+    width: 50%;
+}
