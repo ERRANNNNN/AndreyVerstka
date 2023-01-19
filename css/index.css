@@ -68,6 +68,10 @@ header {
     justify-content: center;
 }
 
+.justify-content-between{
+    justify-content: space-between;
+}
+
 .header-menu-button__subscribe {
     width: 75%;
 }
@@ -99,9 +103,63 @@ header {
 }
 
 .main-card-group__text {
+    height: 311px;
     width: 50%;
+    margin-top: 66px;
+}
+
+.main-card-group__text-1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 62px;
+    letter-spacing: 1px;
+    color: #413E52;
+}
+
+.main-card-group__text-2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #5C5CFF;
+}
+
+.main-card-group__text-3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #413E52;
+}
+
+.main-card-group__text-4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    color: #868297;
 }
 
 .main-card-group__image {
     width: 50%;
+}
+
+.main-card-group__text-5{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #413E52;
 }
